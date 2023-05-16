@@ -12,4 +12,4 @@ This project was built with ReactJS, it is a responsive layout that adjusts to d
 
 ### Screenshot
 
-![dcreenshot](/vite-project/dist/screenshot/screenshot.PNG)
+![screenshot](/vite-project/dist/screenshot/screenshot.PNG)
