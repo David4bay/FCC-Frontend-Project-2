@@ -8,7 +8,7 @@ This project was built with ReactJS, it is a responsive layout that adjusts to d
 
 ### Live Site
 
--[Live URL]()
+-[Live URL](https://heroic-gumption-eb5ae9.netlify.app)
 
 ### Screenshot
 
